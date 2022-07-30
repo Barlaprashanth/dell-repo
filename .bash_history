@@ -39,3 +39,28 @@ git push -u origin master
 
 clear
 
+
+clear
+git push -u origin master
+clear
+lll
+ls
+git add .
+git commit -m "commote message".
+git log
+clear
+git status
+git p
+git push -u origin master
+clear
+git branch
+git branch chanti
+git branch
+git checkout chanti
+git branch
+git checkout master
+git branch
+git branch -m chanti 12
+git branch
+clear
+exit
